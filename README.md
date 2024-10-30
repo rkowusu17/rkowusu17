@@ -1,5 +1,5 @@
-# 💫 Hello I'm Reginald!
-I am a software developer and a data scientist<br>Currently studying JavaScript  (React) <br>Want to connect with others to learn and build more amazing projects <br>#learninginpublic   <br><br>
+# 💫 Hi I'am Reginald!
+I am a software developer and a data scientist<br>Currently studying JavaScript  (React) <br>Want to connect with others to learn and build more <br>amazing projects <br>#learninginpublic   <br><br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ I am a software developer and a data scientist<br>Currently studying JavaScript 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkowusu17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rkowusu17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rkowusu17&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rkowusu17&icon=6&color=0)](https://visitcount.itsvg.in)
