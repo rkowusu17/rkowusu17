@@ -1,4 +1,4 @@
-# 💫 Hi I'am Reginald!
+# 💫 Hi I'm Reginald!
 I am a software developer and a data scientist<br>Currently studying JavaScript  (React) <br>Want to connect with others to learn and build more <br>amazing projects <br>#learninginpublic   <br><br>
 
 
