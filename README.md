@@ -1,5 +1,7 @@
 # 💫 Hi I'm Reginald!
-I am a software developer and a data scientist<br>Currently studying React and C# <br>Want to connect with others to learn and build more <br>amazing projects <br>#learninginpublic   <br><br>
+I am a software developer and a data scientist<br>Currently studying React and C# <br>Want to connect with others to learn and build more 
+<br>https://portfolio-rkowusu17.vercel.app/
+<br>amazing projects <br>#learninginpublic   <br><br>
 
 
 ## 🌐 Socials:
