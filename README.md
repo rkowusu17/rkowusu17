@@ -5,7 +5,7 @@ I am a software developer and a data scientist<br>Currently studying React and C
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/reginald-owusu-kwaku) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@re_ggie12) 
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@re_ggie12) 
 
 # 💻 Languages and tools:
 <!---[C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ---> 
