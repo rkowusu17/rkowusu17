@@ -1,7 +1,5 @@
 # 💫 Hi I'm Reginald!
-I am a software developer and a data scientist<br>Currently studying React and C# <br>Want to connect with others to learn and build more 
-<br>https://portfolio-rkowusu17.vercel.app/
-<br>amazing projects <br>#learninginpublic   <br><br>
+An aspiring full-satck dev who has a keen eye for AI engineering and a data science<br> Currently studying React and fastAPI <br>Want to connect with others to learn and build more amazing projects <br>#learninginpublic   <br><br>
 
 
 ## 🌐 Socials:
