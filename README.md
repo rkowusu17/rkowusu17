@@ -1,9 +1,10 @@
 # 💫 Hi I'm Reginald!
-An aspiring full-satck dev who has a keen eye for AI engineering and a data science<br> Currently studying React and fastAPI <br>Want to connect with others to learn and build more amazing projects <br>#learninginpublic   <br><br>
+I’m a full-stack developer with a strong foundation in mathematics and a growing focus on machine learning and AI engineering. I build scalable web applications using modern frontend frameworks and robust backends, and I design data-driven systems that turn raw information into practical, intelligent solutions.  <br><br>
 
 
 ## 🌐 Socials:
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@re_ggie12) 
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@re_ggie12)  
+ [!][LinkedIn](https://www.linkedin.com/in/reginald-owusu-b16ba5202/)
 
 # 💻 Languages and tools:
 <!---[C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ---> 
