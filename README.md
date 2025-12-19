@@ -3,8 +3,7 @@ I’m a full-stack developer with a strong foundation in mathematics and a growi
 
 
 ## 🌐 Socials:
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@re_ggie12)  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/reginald-owusu-b16ba5202/) 
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@re_ggie12)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/reginald-owusu-b16ba5202/) 
 
 
 
